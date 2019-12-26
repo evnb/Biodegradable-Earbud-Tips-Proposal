@@ -1,1 +1,0 @@
-# Biodegradable-Earbud-Tips-Proposal

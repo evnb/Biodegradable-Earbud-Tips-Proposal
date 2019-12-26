@@ -1,0 +1,93 @@
+Time to take Silicone out of Silicon Valley
+-------------------------------------------
+:imagesdir: https://raw.githubusercontent.com/evnb/Biodegradable-Earbud-Tips-Proposal/master/images/
+Abstract
+~~~~~~~~
+Silicone Rubber is found in many products and is valued as a material for its flexibility, durability, and abundance. However, the same chemical properties responsible for its strength make silicone impossible to decompose and silicone continues to contribute to compounding waste problems. To lessen this problem, short use and non-permanent products may be made with biodegradable materials such as GDH-B1FA. The required infrastructure and behavioral changes are worth the environmental benefit of using such material.
+
+Introduction
+~~~~~~~~~~~~
+Modern society loves silicone rubber. The soft material is in so many long-lasting products, such as computer keypads, medical seals, and swimming goggles. Its main component is even the eponym for Silicon Valley, a globally recognized mecca of technological innovation in San Francisco. Almost seven million metric tons of silicon was produced in 2018^<<3>>^. Silicone rubber products are often touted as an eco-friendly alternative to disposable counterparts made of plastic. However, the silicone industry’s environmental impact is much greater than commonly thought, and this contributes to wide reaching issues. According to the Office of Sustainability at Princeton University,
+____
+The majority of these [silicone products] are prepared by an industrial process using rare platinum catalysts. In addition to their high cost, price volatility and toxicity, extraction of such rare elements from the Earth's crust has significant environmental consequences. Obtaining one ounce of a precious metal often requires mining approximately 10 tons of ore, one mile deep and as a consequence creates a CO2 footprint that estimated to be 6000 times that of iron. In manufacturing silicone products, often times the platinum catalyst is not recovered and results in a significant environmental footprint.^<<13>>^
+____
+Production cost is not the only disadvantage of silicone. In fact, the advantageous strength of Liquid Silicone Rubber (LSR) is, in a way, another weakness that contributes to its negative impact; The cross linked molecular structure of LSR (pictured in <<figure 1>>) involves such strong bonds of silicon and oxygen atoms that the material can endure extreme temperature and physical strain, making it near impossible to be recycled.^<<9>>,<<12>>^ While it is technically possible to ‘downcycle’ unneeded silicone rubber into lower quality products, usage and economic constraints prevent demand for this process. As a result of the scarcity of silicone recycling programs, most obsolete silicone products end up in landfills.
+
+[#figure 1]
+[#img-rohn]
+.Chemical structure of Liquid Silicone Rubber^<<11>>^
+image::r-ohn.png[Chemical structure of Liquid Silicone Rubber,width=80%,align="center"]
+
+Specific Product-Related Problem
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Silicone tips are becoming a standard accessory that comes with in-ear headphones. The barrel-shaped tips snap onto the speaker opening of each earbud and create a seal with the ear that served many functions. This seal creates enough pressure and friction to prevent earbuds from falling out during regular use, and passively isolate outside noise from reaching the ear. Earbud tips are highly sought after because they create accessible products compatible with almost any ear. Chris Welch, a writer for The Verge, describes the need for ear-tips: “The first two models of AirPods were hard plastic earbuds that sat in your ears, just like Apple’s iconic iPod headphones.”^<<16>>^ He admits the design was very successful, but “the one-size-fits-most approach always leaves some of us in the cold. It never worked for me. I could get AirPods in my ear, but any sudden movements or even a quick turn of my head, and they’d go tumbling to the ground. Exercise? Out of the question.”
+
+Silicone earbud tips usually come with in-ear headphones as a set of small, medium, and large, as illustrated in <<figure 2>>. Some headsets also include sets of silicone ear hooks to further improve stability of the earbuds. The listener selects the pair of tips that best fit their ears, and the remaining tips are left in the box or thrown out. An earbud tip is only meant to last as long as the headset itself, because any new headset would also come with its own tips. This results in an immediate waste of four to eight LSR pieces with each purchased in-ear headset, and waste of another two to four pieces by the end of the headset’s lifecycle. In cases of lost or broken tips, consumers are often encouraged to purchase replacement tips, which will further increase the amount of silicone wasted during the product’s lifecycle.
+
+[#figure 2]
+[#img-airpodspro]
+.Apple AirPods Pro promotional material showing silicone ear tips^<<1>>^
+image::airpodspro.png[Apple AirPods Pro promotional material showing silicone ear tips Rubber,width=80%,align="center"]
+
+Proposed Materials Solution
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Ear-tips require a comfortable fit and lasting strength, but silicone tips produce a great amount of energy waste and solid waste when used at a global scale. Eartips made from GDH-B1FA would mitigate the aforementioned problems. GDH-B1FA is a bioplastic elastomer produced by Kansas based Green Dot Bioplastics in its Terratek® Flex line of bioelastomers. It largely consists of starch,^<<15>>^ but has similar physical properties to those of LSR and can be manufactured similarly using injection molding.^<<4>>^ GDH-B1FA scored a Shore A Hardness rating of 74,^<<4>>^ well within that of silicone rubber.^<<2>>^ A chart of hardness of common materials is displayed in <<figure 3>>. GDH-B1FA is also biodegradable; The bioelastomer meets American and European standards for compostability in an industrial composting environment and can also be composted in a home environment.^<<15>>^
+
+[#figure 3]
+[#img-hardness]
+.Chart of the hardness of common materials^<<14>>^
+image::hardness.png[Chart of the hardness of common materials,width=80%,align="center"]
+
+Using this material for ear-tips would produce no waste at the end of the product’s life cycle! In addition, production of GDH-B1FA uses much less energy, with an embodied energy of 4.21 MJ/kg^<<4>>^ compared to LSR’s up to 130 MJ/kg.^<<2>>^
+
+Anticipated Challenges and Impact
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+There are two main logistic problems for this proposition: cost and biodegredation. GDH-B1FA costs up to $10.58/kg^<<5>>^ compared to LSR’s $6.65/kg. However, the cost difference per headset is negligible ($0.000169) and can easily be pushed to the consumer. The material is made in Kansas, but most LSR injection molding happens in China. It may not be economically viable to produce in the US as injection molding machines can run commonly run $12K-$25K each.^<<8>>^ Shipping the material to China to be processed and then ship the processed material back would also add extra cost.
+
+In the right conditions, GDH-B1FA can last up to a year before significant degradation.^<<10>>^ This means customers will need to regularly replace the ear-tips at least every year. This has the potential to scare off customers against continual maintenance. However, it may be mitigated by providing multiple sets of each size of ear-tip at the time of purchase. It may even be possible to convert this fast tip-cycle into a new revenue stream for companies, to offer a subscription service or selling replacement tips. In fact, Apple is selling replacement tips for its AirPods Pro at $4 per set.^<<17>>^
+
+Using data from a variety of sources, it is possible to estimate the potential impact of silicone earbud tips. From personal measurement, a standard set of six ear tips and six ear hooks uses approximately 15 cubic centimeters or 15.3-18.3 grams of LSR. MarketWatch reported that over 184 million in-ear headsets were purchased globally in 2017,^<<6>>^ and according to Statista, the total headphone market (pictured in <<figure 4>>) grows each year.
+
+[#figure 4]
+[#img-market]
+.Global headphone and headset market volume, 2013-2017 (million)^<<7>>^
+image::market.png[Global headphone and headset market volume from 2013 to 2017,width=80%,align="center"]
+
+The possible implication is that up to 4.1 metric tons of silicone waste was generated just from the ear tips sold that year. Switching all ear tips from silicone to GDH-B1FA could have saved up to 4.1 metric tons of solid waste and 520GJ of energy in 2017. It is clearly beneficial both economically and environmentally to make the switch in ear tips as well as other device accessories from silicone to GDH-B1FA.
+
+References
+----------
+[#1]
+. “AirPods Pro.” Apple, October 30, 2019. https://www.apple.com/airpods-pro/.
+[#2]
+. CES EduPack software, Granta Design Limited, Cambridge, UK, 2019 (https://www.grantadesign.com).
+[#3]
+. Garside, M. “Silicon - Statistics & Facts.” Statista, November 13, 2019. https://www.statista.com/topics/1959/silicon/.
+[#4]
+. “GDH-B1FA datasheet.” Green Dot Bioplastics LLC. https://www.greendotbioplastics.com/images/pdf/GDH-B1FA_datasheet_8-22-16.pdf.
+[#5]
+. Harbaugh, S (Director of Sales and Marketing, Green Dot Bioplastics), email to the author, November 4, 2019.
+[#6]
+. Headphone Market 2019, 2019 https://www.marketwatch.com/press-release/headphone-market-2019---business-size-share-opportunities-future-trends-top-key-players-market-share-and-global-analysis-by-forecast-to-2024-2019-11-08
+[#7]
+. Liu, Shanhong. “Global Headphones/Headsets Sales 2013-2017.” Statista, February 13, 2019. https://www.statista.com/statistics/327000/worldwide-sales-headphones-headsets/.
+[#8]
+. “LSR Earbud Manufacturing Machine.” Made in China. https://lsr-silicone.en.made-in-china.com/product/HCzQBFZdGocL/China-LSR-EarbudManufacturing-Machine-Clear-Earbud-Injection-Molding-Machine.html.
+[#9]
+. Plastics News Research, “Liquid Silicone Rubber Market Review & Outlook 2017,” 2017. https://www.plasticsnews.com/assets/PDF/PN110133427.PDF
+[#10]
+. Remmert, M (CEO, Green Dot Holdings LLC), phone conversation with the author, October 29, 2019.
+[#11]
+. Simtec. “Making Silicone Parts: LSR an Outstanding Material.” SIMTEC Silicone Parts, June 23, 2011. https://www.simtec-silicone.com/the-chemistry-that-makes-lsr-such-an-outstanding-material/.
+[#12]
+. Simtec. “The Advantages of Liquid Silicone Rubber for Injection Molding.” SIMTEC Silicone Parts, May 23, 2019. https://www.simtec-silicone.com/the-advantages-of-liquid-silicone-rubber-for-injectionmolding/.
+[#13]
+. Sustainability Research: Silicone Production. Sustainability at Princeton, December 10, 2015. https://sustain.princeton.edu/news/sustainability-faculty-research-silicones.
+[#14]
+. “Shore Hardness - ISO 868.” UL Prospector. UL LLC. https://plastics.ulprospector.com/properties/iso868.
+[#15]
+. “Terratek Flex Elastomers.” Green Dot Bioplastics. Accessed December 18, 2019. https://www.greendotbioplastics.com/materials/elastomer/.
+[#16]
+. Welch, Chris. “Apple AirPods Pro Review: Perfect Fit.” The Verge, November 1, 2019. https://www.theverge.com/2019/11/1/20942472/apple-airpods-pro-review-design-price-specs-features-noise-cancellation.
+[#17]
+. Zibreg, Christian. “AirPods Pro Replacement Tips from Apple Will Cost Only $4.” iDownloadBlog.com, October 30, 2019. https://www.idownloadblog.com/2019/10/30/airpods-replacement-tips-price/.
